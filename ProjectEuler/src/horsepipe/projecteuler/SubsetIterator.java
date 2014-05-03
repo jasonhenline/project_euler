@@ -58,7 +58,7 @@ public class SubsetIterator implements Iterator<int[]>{
 
 	@Override
 	public void remove() {
-		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException();
 	}
 	
 }
